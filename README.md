@@ -36,7 +36,7 @@ It prints the latest headlines with timestamps every 10 minutes, running continu
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/google-news-scraper.git
+git clone https://github.com/sikderemran/selenium_data_scarping.git
 cd google-news-scraper
 pip install selenium
 python selenium_data_scarping.py
